@@ -1,0 +1,13 @@
+gene,candidate_area,heat_response_score,splicing_score,memory_score,network_score,breeding_score,validation_score,validation_route,why_it_matters,interview_note
+OsTRBF1,heat-responsive regulator,86,72,78,82,68,92,CRISPR-Cas9 knockout plasmid and phenotype testing,Heat-stress-responsive rice gene linked with functional analysis in the official project,Connect this to candidate validation and loss-of-function testing
+LOC_Os02g40900,RNA-recognition motif candidate,64,94,72,88,58,86,CRISPR-Cas9 plasmid and transformation,RNA-recognition motif gene that may regulate heat-sensitive splicing,Use this to show interest in post-transcriptional regulation
+LOC_Os05g30140,RNA-recognition motif candidate,61,91,69,84,56,86,CRISPR-Cas9 plasmid and transformation,Second RNA-recognition motif candidate for splicing regulation under heat,Good example of splicing-factor-focused hypothesis
+OsHDAC6_isoform_A,epigenetic/splicing candidate,72,83,88,76,62,82,Overexpression vector for alternative isoform,Histone deacetylase isoform showing heat-responsive alternative splicing,Strong bridge between epigenetics and alternative isoforms
+OsHDAC6_isoform_B,epigenetic/splicing candidate,68,86,85,74,60,82,Overexpression vector for alternative isoform,Alternative OsHDAC6 transcript isoform for heat-tolerance comparison,Use as example of isoform-specific biology
+OsSR45,splicing factor,58,96,73,90,54,72,RT-PCR isoform validation and network analysis,Splicing factor candidate for basal thermotolerance modules,Shows understanding of co-expression network analysis
+OsRSZ23,splicing factor,55,88,66,81,50,68,RT-PCR isoform validation and co-expression module review,Spliceosome-related marker with heat-sensitive transcript behavior,Useful for alternative-splicing marker prioritization
+OsHSP70,heat shock protein,98,42,76,70,82,70,qRT-PCR expression validation,Canonical heat-response marker and stress protection signal,Use as positive control rather than only novelty candidate
+OsHSFA2d,heat transcription factor,93,50,80,78,74,74,qRT-PCR and target-module analysis,Heat-shock transcriptional regulator with downstream response potential,Good transcriptional regulation anchor
+OsDREB2A,stress transcription factor,82,38,68,70,88,65,qRT-PCR and breeding marker review,Abiotic stress regulator with strong breeding relevance,Connects molecular data with crop improvement
+OsAPX2,antioxidant defense,74,34,62,58,90,62,Antioxidant enzyme and phenotype association,Reactive oxygen defense marker linked with physiological heat response,Connect to antioxidant-defense scholarship direction
+OsPIF4_like,temperature signaling,66,55,91,72,76,66,qRT-PCR and temperature-memory profiling,Temperature-response candidate with strong memory signal,Useful for heat-stress memory discussion

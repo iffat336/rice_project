@@ -1,0 +1,25 @@
+condition,cultivar_type,trait,value
+Direct heat,Tolerant,survival,86
+Direct heat,Sensitive,survival,49
+Direct heat,Tolerant,chlorophyll,78
+Direct heat,Sensitive,chlorophyll,45
+Direct heat,Tolerant,photosynthesis,74
+Direct heat,Sensitive,photosynthesis,40
+Direct heat,Tolerant,ROS damage,32
+Direct heat,Sensitive,ROS damage,79
+Direct heat,Tolerant,antioxidant defense,81
+Direct heat,Sensitive,antioxidant defense,44
+Direct heat,Tolerant,biomass,72
+Direct heat,Sensitive,biomass,41
+Memory challenge,Tolerant,survival,91
+Memory challenge,Sensitive,survival,57
+Memory challenge,Tolerant,chlorophyll,82
+Memory challenge,Sensitive,chlorophyll,52
+Memory challenge,Tolerant,photosynthesis,79
+Memory challenge,Sensitive,photosynthesis,48
+Memory challenge,Tolerant,ROS damage,26
+Memory challenge,Sensitive,ROS damage,66
+Memory challenge,Tolerant,antioxidant defense,88
+Memory challenge,Sensitive,antioxidant defense,53
+Memory challenge,Tolerant,panicle fertility,76
+Memory challenge,Sensitive,panicle fertility,39

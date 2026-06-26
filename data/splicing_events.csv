@@ -1,0 +1,10 @@
+gene_id,gene_name,splicing_event,control_PSI,heat_PSI,delta_PSI
+LOC_Os06g37420,OsHDAC6,Intron retention,0.12,0.52,0.4
+LOC_Os09g31482,OsC3H60,Alternative 3' splice site,0.24,0.66,0.42
+LOC_Os02g40900,OsRRM1,Intron retention,0.14,0.6,0.46
+LOC_Os05g30140,OsRRM2,Alternative 5' splice site,0.24,0.69,0.45
+LOC_Os01g18020,OsSR45,Exon skipping,0.13,0.45,0.32
+LOC_Os04g49150,OsRSZ23,Alternative 5' splice site,0.29,0.67,0.38
+LOC_Os01g32870,OsHSP70,Exon skipping,0.16,0.56,0.4
+LOC_Os08g38210,OsTRBF1,Intron retention,0.23,0.72,0.49
+LOC_Os02g45520,OsPIF4_like,Alternative 3' splice site,0.16,0.64,0.48

@@ -1,0 +1,17 @@
+sample_id,cultivar,tolerance_group,treatment,temperature,time_point,replicate
+S1,Tolerant_Cultivar,Tolerant,Control,28,0h,1
+S2,Tolerant_Cultivar,Tolerant,Control,28,0h,2
+S3,Tolerant_Cultivar,Tolerant,Heat,45,1h,1
+S4,Tolerant_Cultivar,Tolerant,Heat,45,1h,2
+S5,Tolerant_Cultivar,Tolerant,Heat,45,3h,1
+S6,Tolerant_Cultivar,Tolerant,Heat,45,3h,2
+S7,Tolerant_Cultivar,Tolerant,Heat,45,24h,1
+S8,Tolerant_Cultivar,Tolerant,Heat,45,24h,2
+S9,Sensitive_Cultivar,Sensitive,Control,28,0h,1
+S10,Sensitive_Cultivar,Sensitive,Control,28,0h,2
+S11,Sensitive_Cultivar,Sensitive,Heat,45,1h,1
+S12,Sensitive_Cultivar,Sensitive,Heat,45,1h,2
+S13,Sensitive_Cultivar,Sensitive,Heat,45,3h,1
+S14,Sensitive_Cultivar,Sensitive,Heat,45,3h,2
+S15,Sensitive_Cultivar,Sensitive,Heat,45,24h,1
+S16,Sensitive_Cultivar,Sensitive,Heat,45,24h,2

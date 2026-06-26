@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ThermoSplice Rice AI</title>
+    <meta name="description" content="AI-assisted rice heat-stress transcriptomics project demo." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav>
+        <strong>ThermoSplice Rice AI</strong>
+        <a href="#demo">Demo</a>
+        <a href="#script">Script</a>
+      </nav>
+      <section class="hero-grid">
+        <div>
+          <p class="eyebrow">PhD interview project</p>
+          <h1>AI-assisted discovery of heat-stress candidate genes in rice.</h1>
+          <p class="lead">
+            A research concept aligned with plant molecular biology, rice heat stress,
+            transcriptomics, alternative splicing, and temperature-memory analysis.
+          </p>
+          <div class="actions">
+            <a class="button primary" href="#demo">Explore candidate ranking</a>
+            <a class="button" href="#script">Read interview pitch</a>
+          </div>
+        </div>
+        <div class="visual" aria-label="Rice heat stress workflow illustration">
+          <div class="sun"></div>
+          <div class="plants"><span></span><span></span><span></span><span></span></div>
+          <div class="rna"><i></i><i></i><i></i><i></i><i></i></div>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="section">
+        <p class="eyebrow">Research question</p>
+        <h2>Can expression, splicing, and heat-memory signals reveal high-value rice thermotolerance candidates?</h2>
+        <div class="cards">
+          <article><strong>Biology</strong><span>Rice heat stress, recovery, and molecular adaptation.</span></article>
+          <article><strong>Data</strong><span>RNA-seq expression matrices, isoform shifts, and sample metadata.</span></article>
+          <article><strong>AI role</strong><span>Transparent candidate scoring, prioritization, and explanation.</span></article>
+          <article><strong>Validation</strong><span>qPCR, RT-PCR, cultivar comparison, and experimental follow-up.</span></article>
+        </div>
+      </section>
+
+      <section class="section panel-section" id="demo">
+        <div>
+          <p class="eyebrow">Interactive demo</p>
+          <h2>Candidate-gene ranking explorer</h2>
+          <p class="muted">Synthetic example data. This explains the method; it is not a real biological result.</p>
+        </div>
+        <div class="tool">
+          <aside>
+            <label>Heat condition
+              <input id="heatLevel" type="range" min="1" max="5" value="3" />
+              <span id="heatLabel">Severe heat, 2 hours</span>
+            </label>
+            <label>Analysis focus
+              <select id="focus">
+                <option value="balanced">Balanced discovery</option>
+                <option value="splicing">Alternative splicing</option>
+                <option value="memory">Temperature memory</option>
+                <option value="breeding">Breeding translation</option>
+              </select>
+            </label>
+            <div class="top-card">
+              <span>Top candidate</span>
+              <strong id="topGene">OsHSP70</strong>
+              <p id="topNote">Strong heat-response signal and recovery stability.</p>
+            </div>
+          </aside>
+          <div class="chart" id="chart"></div>
+        </div>
+      </section>
+
+      <section class="section" id="script">
+        <p class="eyebrow">Interview pitch</p>
+        <h2>What to say in the meeting</h2>
+        <div class="script">
+          <p>
+            I prepared a small project concept called ThermoSplice Rice AI. The idea is to study how rice responds to
+            heat stress by integrating RNA-seq expression data, alternative-splicing changes, and recovery or
+            temperature-memory signals. My goal would be to rank candidate genes or splicing events that may contribute
+            to thermotolerance, then use those candidates for biological validation.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span>Built for interview discussion - synthetic demonstration data</span>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

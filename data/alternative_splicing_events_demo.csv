@@ -1,0 +1,13 @@
+gene,event_type,event_count,delta_psi,condition
+LOC_Os02g40900,intron retention,42,0.31,heat_45C
+LOC_Os02g40900,alternative 3 splice site,18,0.22,heat_45C
+LOC_Os05g30140,intron retention,38,0.29,heat_45C
+LOC_Os05g30140,alternative 5 splice site,15,0.19,heat_45C
+OsHDAC6_isoform_A,alternative first exon,24,0.28,memory
+OsHDAC6_isoform_B,exon skipping,27,0.33,memory
+OsSR45,intron retention,51,0.37,heat_45C
+OsSR45,exon skipping,22,0.24,heat_45C
+OsRSZ23,alternative 5 splice site,31,0.27,heat_45C
+OsTRBF1,intron retention,19,0.18,recovery
+OsPIF4_like,alternative 3 splice site,17,0.21,memory
+OsHSP70,intron retention,11,0.12,heat_45C

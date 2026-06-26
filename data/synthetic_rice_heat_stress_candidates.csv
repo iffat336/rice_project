@@ -1,0 +1,13 @@
+gene,category,heat_log2fc,splicing_delta,memory_index,breeding_relevance,validation_priority,rationale
+OsHSP70,heat shock protein,4.8,0.34,0.82,0.74,high,Strong heat-response signal and recovery stability
+OsHSFA2d,heat transcription factor,4.4,0.29,0.76,0.66,high,Regulates downstream heat-stress response genes
+OsDREB2A,stress transcription factor,3.9,0.22,0.64,0.88,high,Stress-response regulator with breeding relevance
+OsSR45,splicing factor,2.1,0.71,0.70,0.54,high,Splicing regulator candidate for isoform-level response
+OsRSZ23,splicing factor,1.8,0.66,0.62,0.48,medium,Potential heat-sensitive spliceosome component
+OsJMJ703,epigenetic regulator,1.7,0.41,0.92,0.49,high,Epigenetic candidate for temperature-memory follow-up
+OsAPX2,oxidative stress enzyme,3.1,0.18,0.58,0.82,medium,Reactive oxygen protection signal under heat stress
+OsLEA3,stress protection protein,2.8,0.24,0.68,0.71,medium,Stress protection and recovery-associated signal
+OsNAC6,stress transcription factor,2.6,0.31,0.61,0.78,medium,Abiotic stress regulator with trait relevance
+OsSPL7,development regulator,1.4,0.52,0.57,0.63,medium,Development-related isoform shift under stress
+OsAGO1d,RNA regulation,1.9,0.47,0.73,0.52,medium,Possible post-transcriptional regulation candidate
+OsPIF4-like,temperature signaling,2.3,0.38,0.86,0.69,high,Temperature-response and memory-linked candidate
