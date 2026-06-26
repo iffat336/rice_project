@@ -11,6 +11,10 @@ tolerance research and climate-resilient breeding.
 > demonstration dataset built around real candidate genes reported in rice heat-stress literature.
 > It exists to explain a research workflow, not to claim original biological findings.
 
+**New here?** Read [`docs/PROJECT_WALKTHROUGH.md`](docs/PROJECT_WALKTHROUGH.md) for a full,
+step-by-step plain-language explanation of how this project was built, from the dataset to the
+live deployment.
+
 ---
 
 ## Table of Contents
